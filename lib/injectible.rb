@@ -1,5 +1,6 @@
 require "injectible/version"
+require "injectible/inject"
+require "injectible/injector"
 
 module Injectible
-  # Your code goes here...
 end
